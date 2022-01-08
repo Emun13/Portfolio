@@ -1,0 +1,30 @@
+:root{
+	--mainColor: #fff5d5;
+	--secondaryColor: #fffbef;
+
+	--borderColor: #164D56;
+
+	--CircleBorderColor: #000;
+
+	--mainText: black;
+	--secondaryText: #4b5156;
+
+	--tabHoverColor: #ffad56;
+
+	--themeDotBorder: #24292e;
+
+	--previewBg: rgb(255, 245, 214, 0.8);
+	--previewShadow: #ffe9a3;
+
+	--projectCard: #ffe9a3;
+
+	--projectLink: #17a2b8;
+
+	--buttonColor: #ffc689;
+
+	--lightning: #51a4ff;
+}
+
+	/*--mainColor: #fff5d5;*/
+	/*--mainColor: #eaeaea;*/
+	/*--secondaryColor: #fffbef;*/
